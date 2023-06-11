@@ -1,0 +1,13 @@
+{
+    "dev": {
+      "driver": "mssql",
+      "host": "localhost",
+      "user": "sa",
+      "password": "root",
+      "database": "user_management_v2",
+      "options": {
+        "encrypt": true,
+        "enableArithAbort": true
+        }
+    }
+  }
